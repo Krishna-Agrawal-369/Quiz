@@ -1,0 +1,12 @@
+
+q
+java:S1192("VDefine a constant instead of duplicating this literal " fetched successfully" 4 times.(»¸­—úÿÿÿÿ
+o
+java:S1192("TDefine a constant instead of duplicating this literal "Question with id : " 3 times.(»¸­—úÿÿÿÿ
+R
+java:S4973s"<Strings and Boxed types should be compared using "equals()".(ßìÁù
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òí¡¿
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+h
+java:S3776L"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Í­ÚÓ
