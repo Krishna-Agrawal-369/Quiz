@@ -17,3 +17,5 @@ w
 Gquizapp/src/main/java/com/microservices/quizapp/QuizappApplication.java,9/c/9c1b3b5f3e73d274641a5b4940314a4d8c0f7409
 ~
 Nquizapp/src/main/java/com/microservices/quizapp/repository/QuizRepository.java,0/e/0e9f2f97c066c55112699f3de44b57882cacd647
+~
+Nquizapp/src/main/java/com/microservices/quizapp/controller/QuizController.java,b/1/b1d7a88283711c102aa03eb3baf04202fb27355e
