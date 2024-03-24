@@ -1,12 +1,12 @@
 
 —
-java:S1192("VDefine a constant instead of duplicating this literal " fetched successfully" 4 times.(»¸­—úÿÿÿÿJ$ccaba34f-5246-4969-9d72-1df3956cd374
+java:S1192("VDefine a constant instead of duplicating this literal " fetched successfully" 4 times.(»¸­—úÿÿÿÿJ$ce78996c-afd5-4cdb-9c2a-97da5fcd8a37
 •
-java:S1192("TDefine a constant instead of duplicating this literal "Question with id : " 3 times.(»¸­—úÿÿÿÿJ$fcd01f12-2871-4962-8a6f-520f28d760ff
+java:S1192("TDefine a constant instead of duplicating this literal "Question with id : " 3 times.(»¸­—úÿÿÿÿJ$b980eec6-d323-4350-925d-6c5e0231502e
 x
-java:S4973s"<Strings and Boxed types should be compared using "equals()".(ßìÁùJ$e91bac15-6a97-42af-8a6a-14002f231199
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òí¡¿J$5552156b-a980-4175-8179-24b6cac4b41f
+java:S4973s"<Strings and Boxed types should be compared using "equals()".(ßìÁùJ$780e6338-0e85-4d99-8251-de54c351971f
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òí¡¿J$dfc8e1dd-beef-4f0d-88b2-8496b011e4cc
 ~
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$785ff841-1b75-48d7-b019-f27d0f6ff885
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$d000cb78-d9d4-4843-8232-83c89361afc1
 Ž
-java:S3776L"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Í­ÚÓJ$35f7b483-5615-4901-adb6-3177b5a2d3d0
+java:S3776L"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Í­ÚÓJ$88fca979-5c4d-49c7-800a-4beaff6340f1
